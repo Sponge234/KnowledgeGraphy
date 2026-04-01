@@ -1,0 +1,1682 @@
+[
+    {
+        "entity": "艾伦·麦席森·图灵",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 0,
+        "end": 9
+    },
+    {
+        "entity": "英语",
+        "type": "Other",
+        "raw_label": "LANGUAGE",
+        "start": 18,
+        "end": 20
+    },
+    {
+        "entity": "阿兰·图灵",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 44,
+        "end": 49
+    },
+    {
+        "entity": "Turing",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 50,
+        "end": 56
+    },
+    {
+        "entity": "1912年6月23日—1954年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 68,
+        "end": 84
+    },
+    {
+        "entity": "英国电脑",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 90,
+        "end": 94
+    },
+    {
+        "entity": "二次世界大战",
+        "type": "Event",
+        "raw_label": "EVENT",
+        "start": 139,
+        "end": 145
+    },
+    {
+        "entity": "8",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 153,
+        "end": 154
+    },
+    {
+        "entity": "德国海军",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 160,
+        "end": 164
+    },
+    {
+        "entity": "德国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 182,
+        "end": 184
+    },
+    {
+        "entity": "波兰战",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 194,
+        "end": 197
+    },
+    {
+        "entity": "恩尼格玛",
+        "type": "Other",
+        "raw_label": "NORP",
+        "start": 215,
+        "end": 219
+    },
+    {
+        "entity": "大西洋",
+        "type": "Location",
+        "raw_label": "LOC",
+        "start": 261,
+        "end": 264
+    },
+    {
+        "entity": "计算机器和智能",
+        "type": "Other",
+        "raw_label": "WORK_OF_ART",
+        "start": 325,
+        "end": 332
+    },
+    {
+        "entity": "英国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 469,
+        "end": 471
+    },
+    {
+        "entity": "2小时46分03秒",
+        "type": "Other",
+        "raw_label": "TIME",
+        "start": 516,
+        "end": 525
+    },
+    {
+        "entity": "1948年奥林匹克运动会",
+        "type": "Event",
+        "raw_label": "EVENT",
+        "start": 533,
+        "end": 545
+    },
+    {
+        "entity": "11分钟",
+        "type": "Other",
+        "raw_label": "TIME",
+        "start": 550,
+        "end": 554
+    },
+    {
+        "entity": "1948年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 555,
+        "end": 560
+    },
+    {
+        "entity": "奥运会",
+        "type": "Event",
+        "raw_label": "EVENT",
+        "start": 575,
+        "end": 578
+    },
+    {
+        "entity": "汤姆·理查兹",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 582,
+        "end": 588
+    },
+    {
+        "entity": "朱利斯·麦席森·图灵",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 624,
+        "end": 634
+    },
+    {
+        "entity": "Julius",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 635,
+        "end": 641
+    },
+    {
+        "entity": "印度",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 663,
+        "end": 665
+    },
+    {
+        "entity": "1911年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 670,
+        "end": 675
+    },
+    {
+        "entity": "Ethel Sara Stoney",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 681,
+        "end": 698
+    },
+    {
+        "entity": "印度",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 701,
+        "end": 703
+    },
+    {
+        "entity": "艾伦",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 713,
+        "end": 715
+    },
+    {
+        "entity": "英国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 716,
+        "end": 718
+    },
+    {
+        "entity": "伦敦",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 725,
+        "end": 727
+    },
+    {
+        "entity": "帕丁顿",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 730,
+        "end": 733
+    },
+    {
+        "entity": "艾伦",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 741,
+        "end": 743
+    },
+    {
+        "entity": "印度",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 766,
+        "end": 768
+    },
+    {
+        "entity": "印度",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 773,
+        "end": 775
+    },
+    {
+        "entity": "1927年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 825,
+        "end": 830
+    },
+    {
+        "entity": "吉尔福德",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 836,
+        "end": 840
+    },
+    {
+        "entity": "六岁",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 876,
+        "end": 878
+    },
+    {
+        "entity": "圣迈克尔",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 892,
+        "end": 896
+    },
+    {
+        "entity": "马尔伯勒学院",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 935,
+        "end": 941
+    },
+    {
+        "entity": "1926年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 954,
+        "end": 959
+    },
+    {
+        "entity": "十三岁",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 961,
+        "end": 964
+    },
+    {
+        "entity": "多塞特郡",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 970,
+        "end": 974
+    },
+    {
+        "entity": "第一天",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 984,
+        "end": 987
+    },
+    {
+        "entity": "第一天",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 1003,
+        "end": 1006
+    },
+    {
+        "entity": "南安普顿",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 1015,
+        "end": 1019
+    },
+    {
+        "entity": "六十",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 1021,
+        "end": 1023
+    },
+    {
+        "entity": "谢尔本",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 1063,
+        "end": 1066
+    },
+    {
+        "entity": "1928年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 1156,
+        "end": 1161
+    },
+    {
+        "entity": "16岁",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 1165,
+        "end": 1168
+    },
+    {
+        "entity": "阿尔伯特·爱因斯坦",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 1176,
+        "end": 1185
+    },
+    {
+        "entity": "爱因斯坦",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 1202,
+        "end": 1206
+    },
+    {
+        "entity": "爱因斯坦",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 1220,
+        "end": 1224
+    },
+    {
+        "entity": "1931年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 1255,
+        "end": 1260
+    },
+    {
+        "entity": "剑桥大学",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 1265,
+        "end": 1269
+    },
+    {
+        "entity": "1934年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 1290,
+        "end": 1295
+    },
+    {
+        "entity": "1935年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 1305,
+        "end": 1310
+    },
+    {
+        "entity": "22岁",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 1311,
+        "end": 1314
+    },
+    {
+        "entity": "1922年",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 1354,
+        "end": 1359
+    },
+    {
+        "entity": "论可计算数",
+        "type": "Other",
+        "raw_label": "WORK_OF_ART",
+        "start": 1410,
+        "end": 1415
+    },
+    {
+        "entity": "英语",
+        "type": "Other",
+        "raw_label": "LANGUAGE",
+        "start": 1428,
+        "end": 1430
+    },
+    {
+        "entity": "1931年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 1508,
+        "end": 1513
+    },
+    {
+        "entity": "图灵机",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 1538,
+        "end": 1541
+    },
+    {
+        "entity": "哥德尔",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 1554,
+        "end": 1557
+    },
+    {
+        "entity": "通用",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 1559,
+        "end": 1561
+    },
+    {
+        "entity": "图灵机",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 1574,
+        "end": 1577
+    },
+    {
+        "entity": "图灵机",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 1633,
+        "end": 1636
+    },
+    {
+        "entity": "图灵机",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 1676,
+        "end": 1679
+    },
+    {
+        "entity": "阿隆佐·邱奇",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 1724,
+        "end": 1730
+    },
+    {
+        "entity": "几个月",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 1745,
+        "end": 1748
+    },
+    {
+        "entity": "通用",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 1766,
+        "end": 1768
+    },
+    {
+        "entity": "1936年9月到1938年7月",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 1820,
+        "end": 1835
+    },
+    {
+        "entity": "普林斯顿大学",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 1846,
+        "end": 1852
+    },
+    {
+        "entity": "第二年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 1859,
+        "end": 1862
+    },
+    {
+        "entity": "简·伊丽莎·宝洁奖学金",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 1866,
+        "end": 1877
+    },
+    {
+        "entity": "Jane Eliza",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 1882,
+        "end": 1892
+    },
+    {
+        "entity": "二",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 1943,
+        "end": 1944
+    },
+    {
+        "entity": "四",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 1950,
+        "end": 1951
+    },
+    {
+        "entity": "三",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 1958,
+        "end": 1959
+    },
+    {
+        "entity": "1938年6月",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 1961,
+        "end": 1968
+    },
+    {
+        "entity": "林斯顿",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 1971,
+        "end": 1974
+    },
+    {
+        "entity": "图灵机",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2017,
+        "end": 2020
+    },
+    {
+        "entity": "冯·诺依曼",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 2050,
+        "end": 2055
+    },
+    {
+        "entity": "英国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2079,
+        "end": 2081
+    },
+    {
+        "entity": "1939年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 2083,
+        "end": 2088
+    },
+    {
+        "entity": "剑桥",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 2092,
+        "end": 2094
+    },
+    {
+        "entity": "Foundations of mathe",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 2112,
+        "end": 2132
+    },
+    {
+        "entity": "第二次世界大战",
+        "type": "Event",
+        "raw_label": "EVENT",
+        "start": 2207,
+        "end": 2214
+    },
+    {
+        "entity": "德国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2228,
+        "end": 2230
+    },
+    {
+        "entity": "1938年9月",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 2299,
+        "end": 2306
+    },
+    {
+        "entity": "英国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2311,
+        "end": 2313
+    },
+    {
+        "entity": "第利",
+        "type": "Other",
+        "raw_label": "ORDINAL",
+        "start": 2354,
+        "end": 2356
+    },
+    {
+        "entity": "温·诺克斯",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 2356,
+        "end": 2361
+    },
+    {
+        "entity": "德国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2367,
+        "end": 2369
+    },
+    {
+        "entity": "恩尼格玛",
+        "type": "Other",
+        "raw_label": "NORP",
+        "start": 2372,
+        "end": 2376
+    },
+    {
+        "entity": "1939年7月",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 2387,
+        "end": 2394
+    },
+    {
+        "entity": "波兰",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2395,
+        "end": 2397
+    },
+    {
+        "entity": "华沙",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2401,
+        "end": 2403
+    },
+    {
+        "entity": "英国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2410,
+        "end": 2412
+    },
+    {
+        "entity": "法国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2413,
+        "end": 2415
+    },
+    {
+        "entity": "恩尼格玛",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2418,
+        "end": 2422
+    },
+    {
+        "entity": "诺克斯",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2460,
+        "end": 2463
+    },
+    {
+        "entity": "波兰",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2479,
+        "end": 2481
+    },
+    {
+        "entity": "德国人",
+        "type": "Other",
+        "raw_label": "NORP",
+        "start": 2486,
+        "end": 2489
+    },
+    {
+        "entity": "波兰",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2532,
+        "end": 2534
+    },
+    {
+        "entity": "1939年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 2542,
+        "end": 2547
+    },
+    {
+        "entity": "英国皇家海军",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 2550,
+        "end": 2556
+    },
+    {
+        "entity": "英国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2561,
+        "end": 2563
+    },
+    {
+        "entity": "德国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2573,
+        "end": 2575
+    },
+    {
+        "entity": "两年后",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 2587,
+        "end": 2590
+    },
+    {
+        "entity": "德国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2599,
+        "end": 2601
+    },
+    {
+        "entity": "德国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2623,
+        "end": 2625
+    },
+    {
+        "entity": "两",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 2719,
+        "end": 2720
+    },
+    {
+        "entity": "GC",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 2822,
+        "end": 2824
+    },
+    {
+        "entity": "2012年4月",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 2854,
+        "end": 2861
+    },
+    {
+        "entity": "英国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 2866,
+        "end": 2868
+    },
+    {
+        "entity": "一百周年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 2880,
+        "end": 2884
+    },
+    {
+        "entity": "70 年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 2932,
+        "end": 2936
+    },
+    {
+        "entity": "GCHQ",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 3056,
+        "end": 3060
+    },
+    {
+        "entity": "两",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 3067,
+        "end": 3068
+    },
+    {
+        "entity": "恩尼格玛",
+        "type": "Other",
+        "raw_label": "NORP",
+        "start": 3141,
+        "end": 3145
+    },
+    {
+        "entity": "Ronald Lewin",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 3169,
+        "end": 3181
+    },
+    {
+        "entity": "六月",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 3217,
+        "end": 3219
+    },
+    {
+        "entity": "第一周",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 3220,
+        "end": 3223
+    },
+    {
+        "entity": "希尔顿",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 3330,
+        "end": 3333
+    },
+    {
+        "entity": "8",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 3355,
+        "end": 3356
+    },
+    {
+        "entity": "艾伦·图灵",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 3552,
+        "end": 3557
+    },
+    {
+        "entity": "第二次世界大战",
+        "type": "Event",
+        "raw_label": "EVENT",
+        "start": 3575,
+        "end": 3582
+    },
+    {
+        "entity": "希尔顿",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 3605,
+        "end": 3608
+    },
+    {
+        "entity": "解码纳粹秘密",
+        "type": "Other",
+        "raw_label": "LAW",
+        "start": 3622,
+        "end": 3628
+    },
+    {
+        "entity": "40 英里",
+        "type": "Other",
+        "raw_label": "QUANTITY",
+        "start": 3683,
+        "end": 3688
+    },
+    {
+        "entity": "64 公里",
+        "type": "Other",
+        "raw_label": "QUANTITY",
+        "start": 3689,
+        "end": 3694
+    },
+    {
+        "entity": "伦敦",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 3696,
+        "end": 3698
+    },
+    {
+        "entity": "1948 年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 3719,
+        "end": 3725
+    },
+    {
+        "entity": "英国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 3759,
+        "end": 3761
+    },
+    {
+        "entity": "Thomas Richards",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 3773,
+        "end": 3788
+    },
+    {
+        "entity": "奥运会",
+        "type": "Event",
+        "raw_label": "EVENT",
+        "start": 3790,
+        "end": 3793
+    },
+    {
+        "entity": "2小时35分钟",
+        "type": "Other",
+        "raw_label": "TIME",
+        "start": 3798,
+        "end": 3805
+    },
+    {
+        "entity": "11分钟",
+        "type": "Other",
+        "raw_label": "TIME",
+        "start": 3808,
+        "end": 3812
+    },
+    {
+        "entity": "沃尔顿",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 3815,
+        "end": 3818
+    },
+    {
+        "entity": "哈里·欣斯利",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 3954,
+        "end": 3960
+    },
+    {
+        "entity": "欧洲",
+        "type": "Location",
+        "raw_label": "LOC",
+        "start": 3968,
+        "end": 3970
+    },
+    {
+        "entity": "两年多",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 3976,
+        "end": 3979
+    },
+    {
+        "entity": "1400",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 3986,
+        "end": 3990
+    },
+    {
+        "entity": "官方保密法",
+        "type": "Other",
+        "raw_label": "LAW",
+        "start": 4031,
+        "end": 4036
+    },
+    {
+        "entity": "1946 年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 4075,
+        "end": 4081
+    },
+    {
+        "entity": "乔治",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 4082,
+        "end": 4084
+    },
+    {
+        "entity": "英",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 4092,
+        "end": 4093
+    },
+    {
+        "entity": "1945年到1948年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 4153,
+        "end": 4164
+    },
+    {
+        "entity": "国家物理实验室",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 4168,
+        "end": 4175
+    },
+    {
+        "entity": "1949年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 4194,
+        "end": 4199
+    },
+    {
+        "entity": "1952年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 4324,
+        "end": 4329
+    },
+    {
+        "entity": "半小时",
+        "type": "Other",
+        "raw_label": "TIME",
+        "start": 4385,
+        "end": 4388
+    },
+    {
+        "entity": "美国新墨西哥州",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 4410,
+        "end": 4417
+    },
+    {
+        "entity": "国家实验室",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 4423,
+        "end": 4428
+    },
+    {
+        "entity": "第一",
+        "type": "Other",
+        "raw_label": "ORDINAL",
+        "start": 4453,
+        "end": 4455
+    },
+    {
+        "entity": "1952年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 4502,
+        "end": 4507
+    },
+    {
+        "entity": "1952年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 4529,
+        "end": 4534
+    },
+    {
+        "entity": "英语",
+        "type": "Other",
+        "raw_label": "LANGUAGE",
+        "start": 4553,
+        "end": 4555
+    },
+    {
+        "entity": "叶序列",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 4604,
+        "end": 4607
+    },
+    {
+        "entity": "1992年《",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 4666,
+        "end": 4672
+    },
+    {
+        "entity": "艾伦·图灵选集",
+        "type": "Other",
+        "raw_label": "WORK_OF_ART",
+        "start": 4672,
+        "end": 4679
+    },
+    {
+        "entity": "2012年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 4692,
+        "end": 4697
+    },
+    {
+        "entity": "1952年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 4769,
+        "end": 4774
+    },
+    {
+        "entity": "一",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 4783,
+        "end": 4784
+    },
+    {
+        "entity": "英国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 4801,
+        "end": 4803
+    },
+    {
+        "entity": "两",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 4861,
+        "end": 4862
+    },
+    {
+        "entity": "一年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 4903,
+        "end": 4905
+    },
+    {
+        "entity": "1954年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 4955,
+        "end": 4960
+    },
+    {
+        "entity": "氰化物",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 4968,
+        "end": 4971
+    },
+    {
+        "entity": "Ethel Sara Stoney",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 5007,
+        "end": 5024
+    },
+    {
+        "entity": "2009年9月10日",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 5086,
+        "end": 5096
+    },
+    {
+        "entity": "3万",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 5101,
+        "end": 5103
+    },
+    {
+        "entity": "英国",
+        "type": "Other",
+        "raw_label": "NORP",
+        "start": 5111,
+        "end": 5113
+    },
+    {
+        "entity": "戈登·布朗",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 5115,
+        "end": 5120
+    },
+    {
+        "entity": "每日电讯报",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 5122,
+        "end": 5127
+    },
+    {
+        "entity": "英国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 5133,
+        "end": 5135
+    },
+    {
+        "entity": "艾伦·图灵",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 5165,
+        "end": 5170
+    },
+    {
+        "entity": "2012年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 5177,
+        "end": 5182
+    },
+    {
+        "entity": "2万多",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 5184,
+        "end": 5187
+    },
+    {
+        "entity": "英国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 5195,
+        "end": 5197
+    },
+    {
+        "entity": "英国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 5216,
+        "end": 5218
+    },
+    {
+        "entity": "上议院",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 5218,
+        "end": 5221
+    },
+    {
+        "entity": "麦克纳利",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 5222,
+        "end": 5226
+    },
+    {
+        "entity": "勋爵",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 5226,
+        "end": 5228
+    },
+    {
+        "entity": "今天",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 5304,
+        "end": 5306
+    },
+    {
+        "entity": "今日",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 5412,
+        "end": 5414
+    },
+    {
+        "entity": "2013年12月24日",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 5433,
+        "end": 5444
+    },
+    {
+        "entity": "英国司法部",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 5445,
+        "end": 5450
+    },
+    {
+        "entity": "英国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 5452,
+        "end": 5454
+    },
+    {
+        "entity": "伊丽莎白",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 5456,
+        "end": 5460
+    },
+    {
+        "entity": "1952年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 5464,
+        "end": 5469
+    },
+    {
+        "entity": "艾伦·图灵",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 5479,
+        "end": 5484
+    },
+    {
+        "entity": "2015年2月23日",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 5526,
+        "end": 5536
+    },
+    {
+        "entity": "英国",
+        "type": "Other",
+        "raw_label": "NORP",
+        "start": 5543,
+        "end": 5545
+    },
+    {
+        "entity": "50万",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 5556,
+        "end": 5559
+    },
+    {
+        "entity": "英国",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 5569,
+        "end": 5571
+    },
+    {
+        "entity": "49",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 5575,
+        "end": 5577
+    },
+    {
+        "entity": "2017年1月31日",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 5597,
+        "end": 5607
+    },
+    {
+        "entity": "艾伦·图灵",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 5608,
+        "end": 5613
+    },
+    {
+        "entity": "约49",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 5618,
+        "end": 5621
+    },
+    {
+        "entity": "1946年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 5664,
+        "end": 5669
+    },
+    {
+        "entity": "英",
+        "type": "Location",
+        "raw_label": "GPE",
+        "start": 5670,
+        "end": 5671
+    },
+    {
+        "entity": "1951年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 5678,
+        "end": 5683
+    },
+    {
+        "entity": "皇家学会",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 5687,
+        "end": 5691
+    },
+    {
+        "entity": "1966年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 5716,
+        "end": 5721
+    },
+    {
+        "entity": "计算机协会",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 5730,
+        "end": 5735
+    },
+    {
+        "entity": "诺贝尔奖",
+        "type": "Other",
+        "raw_label": "WORK_OF_ART",
+        "start": 5779,
+        "end": 5783
+    },
+    {
+        "entity": "50英镑",
+        "type": "Other",
+        "raw_label": "MONEY",
+        "start": 5807,
+        "end": 5811
+    },
+    {
+        "entity": "半",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 5863,
+        "end": 5864
+    },
+    {
+        "entity": "史蒂夫·乔布斯",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 5896,
+        "end": 5903
+    },
+    {
+        "entity": "史蒂芬·弗莱",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 5906,
+        "end": 5912
+    },
+    {
+        "entity": "God",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 5954,
+        "end": 5957
+    },
+    {
+        "entity": "NVIDIA",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 6029,
+        "end": 6035
+    },
+    {
+        "entity": "16",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 6044,
+        "end": 6046
+    },
+    {
+        "entity": "NVIDIA",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 6049,
+        "end": 6055
+    },
+    {
+        "entity": "20",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 6064,
+        "end": 6066
+    },
+    {
+        "entity": "模仿游戏",
+        "type": "Other",
+        "raw_label": "WORK_OF_ART",
+        "start": 6105,
+        "end": 6109
+    },
+    {
+        "entity": "2014年",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 6111,
+        "end": 6116
+    },
+    {
+        "entity": "本尼迪克特·康伯巴奇",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 6120,
+        "end": 6130
+    },
+    {
+        "entity": "艾伦·图灵",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 6132,
+        "end": 6137
+    },
+    {
+        "entity": "图灵机",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 6154,
+        "end": 6157
+    },
+    {
+        "entity": "2012",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 6240,
+        "end": 6244
+    },
+    {
+        "entity": "艾伦·图灵年",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 6244,
+        "end": 6250
+    },
+    {
+        "entity": "档案馆",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 6264,
+        "end": 6267
+    },
+    {
+        "entity": "档案馆",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 6300,
+        "end": 6303
+    },
+    {
+        "entity": "档案馆",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 6323,
+        "end": 6326
+    },
+    {
+        "entity": "美国国会",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 6340,
+        "end": 6344
+    },
+    {
+        "entity": "27",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 6363,
+        "end": 6365
+    },
+    {
+        "entity": "James",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 6437,
+        "end": 6442
+    },
+    {
+        "entity": "2001",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 6535,
+        "end": 6539
+    },
+    {
+        "entity": "12",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 6540,
+        "end": 6542
+    },
+    {
+        "entity": "11",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 6543,
+        "end": 6545
+    },
+    {
+        "entity": "2007",
+        "type": "Other",
+        "raw_label": "DATE",
+        "start": 6555,
+        "end": 6559
+    },
+    {
+        "entity": "档案馆",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 6593,
+        "end": 6596
+    },
+    {
+        "entity": "中央研究院",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 6600,
+        "end": 6605
+    },
+    {
+        "entity": "台大",
+        "type": "Organization",
+        "raw_label": "ORG",
+        "start": 6609,
+        "end": 6611
+    },
+    {
+        "entity": "艾伦·图灵",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 6615,
+        "end": 6620
+    },
+    {
+        "entity": "档案馆",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 6646,
+        "end": 6649
+    },
+    {
+        "entity": "艾伦·图灵",
+        "type": "Person",
+        "raw_label": "PERSON",
+        "start": 6651,
+        "end": 6656
+    },
+    {
+        "entity": "数字化",
+        "type": "Other",
+        "raw_label": "CARDINAL",
+        "start": 6658,
+        "end": 6661
+    }
+]
