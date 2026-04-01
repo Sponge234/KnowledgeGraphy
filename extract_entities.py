@@ -39,7 +39,6 @@ def extract_entities_from_file(input_path, output_path):
             "end": ent.end_char
         })
 
-    # 6. 将结果保存为 JSON 文件
     with open(output_path, "w", encoding="utf-8") as f:
  
         json.dump(extracted_entities, f, ensure_ascii=False, indent=4)
