@@ -4,1679 +4,1919 @@
         "type": "Person",
         "raw_label": "PERSON",
         "start": 0,
-        "end": 9
+        "end": 9,
+        "canonical_name": "朱利斯·麦席森·图灵"
     },
     {
         "entity": "英语",
         "type": "Other",
         "raw_label": "LANGUAGE",
         "start": 18,
-        "end": 20
+        "end": 20,
+        "canonical_name": "英语"
     },
     {
         "entity": "阿兰·图灵",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 44,
-        "end": 49
+        "end": 49,
+        "canonical_name": "阿兰·图灵"
     },
     {
         "entity": "Turing",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 50,
-        "end": 56
+        "end": 56,
+        "canonical_name": "Turing"
     },
     {
         "entity": "1912年6月23日—1954年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 68,
-        "end": 84
+        "end": 84,
+        "canonical_name": "1912年6月23日—1954年"
     },
     {
         "entity": "英国电脑",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 90,
-        "end": 94
+        "end": 94,
+        "canonical_name": "英国电脑"
     },
     {
         "entity": "二次世界大战",
         "type": "Event",
         "raw_label": "EVENT",
         "start": 139,
-        "end": 145
+        "end": 145,
+        "canonical_name": "第二次世界大战"
     },
     {
         "entity": "8",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 153,
-        "end": 154
+        "end": 154,
+        "canonical_name": "1945年到1948年"
     },
     {
         "entity": "德国海军",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 160,
-        "end": 164
+        "end": 164,
+        "canonical_name": "德国海军"
     },
     {
         "entity": "德国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 182,
-        "end": 184
+        "end": 184,
+        "canonical_name": "德国"
     },
     {
         "entity": "波兰战",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 194,
-        "end": 197
+        "end": 197,
+        "canonical_name": "波兰战"
     },
     {
         "entity": "恩尼格玛",
         "type": "Other",
         "raw_label": "NORP",
         "start": 215,
-        "end": 219
+        "end": 219,
+        "canonical_name": "恩尼格玛"
     },
     {
         "entity": "大西洋",
         "type": "Location",
         "raw_label": "LOC",
         "start": 261,
-        "end": 264
+        "end": 264,
+        "canonical_name": "大西洋"
     },
     {
         "entity": "计算机器和智能",
         "type": "Other",
         "raw_label": "WORK_OF_ART",
         "start": 325,
-        "end": 332
+        "end": 332,
+        "canonical_name": "计算机器和智能"
     },
     {
         "entity": "英国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 469,
-        "end": 471
+        "end": 471,
+        "canonical_name": "英国"
     },
     {
         "entity": "2小时46分03秒",
         "type": "Other",
         "raw_label": "TIME",
         "start": 516,
-        "end": 525
+        "end": 525,
+        "canonical_name": "2小时46分03秒"
     },
     {
         "entity": "1948年奥林匹克运动会",
         "type": "Event",
         "raw_label": "EVENT",
         "start": 533,
-        "end": 545
+        "end": 545,
+        "canonical_name": "1948年奥林匹克运动会"
     },
     {
         "entity": "11分钟",
         "type": "Other",
         "raw_label": "TIME",
         "start": 550,
-        "end": 554
+        "end": 554,
+        "canonical_name": "11分钟"
     },
     {
         "entity": "1948年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 555,
-        "end": 560
+        "end": 560,
+        "canonical_name": "1945年到1948年"
     },
     {
         "entity": "奥运会",
         "type": "Event",
         "raw_label": "EVENT",
         "start": 575,
-        "end": 578
+        "end": 578,
+        "canonical_name": "奥运会"
     },
     {
         "entity": "汤姆·理查兹",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 582,
-        "end": 588
+        "end": 588,
+        "canonical_name": "汤姆·理查兹"
     },
     {
         "entity": "朱利斯·麦席森·图灵",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 624,
-        "end": 634
+        "end": 634,
+        "canonical_name": "朱利斯·麦席森·图灵"
     },
     {
         "entity": "Julius",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 635,
-        "end": 641
+        "end": 641,
+        "canonical_name": "Julius"
     },
     {
         "entity": "印度",
         "type": "Location",
         "raw_label": "GPE",
         "start": 663,
-        "end": 665
+        "end": 665,
+        "canonical_name": "印度"
     },
     {
         "entity": "1911年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 670,
-        "end": 675
+        "end": 675,
+        "canonical_name": "1911年"
     },
     {
         "entity": "Ethel Sara Stoney",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 681,
-        "end": 698
+        "end": 698,
+        "canonical_name": "Ethel Sara Stoney"
     },
     {
         "entity": "印度",
         "type": "Location",
         "raw_label": "GPE",
         "start": 701,
-        "end": 703
+        "end": 703,
+        "canonical_name": "印度"
     },
     {
         "entity": "艾伦",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 713,
-        "end": 715
+        "end": 715,
+        "canonical_name": "艾伦·图灵年"
     },
     {
         "entity": "英国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 716,
-        "end": 718
+        "end": 718,
+        "canonical_name": "英国"
     },
     {
         "entity": "伦敦",
         "type": "Location",
         "raw_label": "GPE",
         "start": 725,
-        "end": 727
+        "end": 727,
+        "canonical_name": "伦敦"
     },
     {
         "entity": "帕丁顿",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 730,
-        "end": 733
+        "end": 733,
+        "canonical_name": "帕丁顿"
     },
     {
         "entity": "艾伦",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 741,
-        "end": 743
+        "end": 743,
+        "canonical_name": "艾伦·图灵年"
     },
     {
         "entity": "印度",
         "type": "Location",
         "raw_label": "GPE",
         "start": 766,
-        "end": 768
+        "end": 768,
+        "canonical_name": "印度"
     },
     {
         "entity": "印度",
         "type": "Location",
         "raw_label": "GPE",
         "start": 773,
-        "end": 775
+        "end": 775,
+        "canonical_name": "印度"
     },
     {
         "entity": "1927年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 825,
-        "end": 830
+        "end": 830,
+        "canonical_name": "1992年《"
     },
     {
         "entity": "吉尔福德",
         "type": "Location",
         "raw_label": "GPE",
         "start": 836,
-        "end": 840
+        "end": 840,
+        "canonical_name": "吉尔福德"
     },
     {
         "entity": "六岁",
         "type": "Other",
         "raw_label": "DATE",
         "start": 876,
-        "end": 878
+        "end": 878,
+        "canonical_name": "六岁"
     },
     {
         "entity": "圣迈克尔",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 892,
-        "end": 896
+        "end": 896,
+        "canonical_name": "圣迈克尔"
     },
     {
         "entity": "马尔伯勒学院",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 935,
-        "end": 941
+        "end": 941,
+        "canonical_name": "马尔伯勒学院"
     },
     {
         "entity": "1926年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 954,
-        "end": 959
+        "end": 959,
+        "canonical_name": "1992年《"
     },
     {
         "entity": "十三岁",
         "type": "Other",
         "raw_label": "DATE",
         "start": 961,
-        "end": 964
+        "end": 964,
+        "canonical_name": "十三岁"
     },
     {
         "entity": "多塞特郡",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 970,
-        "end": 974
+        "end": 974,
+        "canonical_name": "多塞特郡"
     },
     {
         "entity": "第一天",
         "type": "Other",
         "raw_label": "DATE",
         "start": 984,
-        "end": 987
+        "end": 987,
+        "canonical_name": "第一天"
     },
     {
         "entity": "第一天",
         "type": "Other",
         "raw_label": "DATE",
         "start": 1003,
-        "end": 1006
+        "end": 1006,
+        "canonical_name": "第一天"
     },
     {
         "entity": "南安普顿",
         "type": "Location",
         "raw_label": "GPE",
         "start": 1015,
-        "end": 1019
+        "end": 1019,
+        "canonical_name": "南安普顿"
     },
     {
         "entity": "六十",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 1021,
-        "end": 1023
+        "end": 1023,
+        "canonical_name": "六十"
     },
     {
         "entity": "谢尔本",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 1063,
-        "end": 1066
+        "end": 1066,
+        "canonical_name": "谢尔本"
     },
     {
         "entity": "1928年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 1156,
-        "end": 1161
+        "end": 1161,
+        "canonical_name": "1992年《"
     },
     {
         "entity": "16岁",
         "type": "Other",
         "raw_label": "DATE",
         "start": 1165,
-        "end": 1168
+        "end": 1168,
+        "canonical_name": "16岁"
     },
     {
         "entity": "阿尔伯特·爱因斯坦",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 1176,
-        "end": 1185
+        "end": 1185,
+        "canonical_name": "阿尔伯特·爱因斯坦"
     },
     {
         "entity": "爱因斯坦",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 1202,
-        "end": 1206
+        "end": 1206,
+        "canonical_name": "阿尔伯特·爱因斯坦"
     },
     {
         "entity": "爱因斯坦",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 1220,
-        "end": 1224
+        "end": 1224,
+        "canonical_name": "阿尔伯特·爱因斯坦"
     },
     {
         "entity": "1931年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 1255,
-        "end": 1260
+        "end": 1260,
+        "canonical_name": "1911年"
     },
     {
         "entity": "剑桥大学",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 1265,
-        "end": 1269
+        "end": 1269,
+        "canonical_name": "剑桥大学"
     },
     {
         "entity": "1934年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 1290,
-        "end": 1295
+        "end": 1295,
+        "canonical_name": "1939年7月"
     },
     {
         "entity": "1935年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 1305,
-        "end": 1310
+        "end": 1310,
+        "canonical_name": "1939年7月"
     },
     {
         "entity": "22岁",
         "type": "Other",
         "raw_label": "DATE",
         "start": 1311,
-        "end": 1314
+        "end": 1314,
+        "canonical_name": "22岁"
     },
     {
         "entity": "1922年",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 1354,
-        "end": 1359
+        "end": 1359,
+        "canonical_name": "1992年《"
     },
     {
         "entity": "论可计算数",
         "type": "Other",
         "raw_label": "WORK_OF_ART",
         "start": 1410,
-        "end": 1415
+        "end": 1415,
+        "canonical_name": "论可计算数"
     },
     {
         "entity": "英语",
         "type": "Other",
         "raw_label": "LANGUAGE",
         "start": 1428,
-        "end": 1430
+        "end": 1430,
+        "canonical_name": "英语"
     },
     {
         "entity": "1931年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 1508,
-        "end": 1513
+        "end": 1513,
+        "canonical_name": "1911年"
     },
     {
         "entity": "图灵机",
         "type": "Location",
         "raw_label": "GPE",
         "start": 1538,
-        "end": 1541
+        "end": 1541,
+        "canonical_name": "图灵机"
     },
     {
         "entity": "哥德尔",
         "type": "Location",
         "raw_label": "GPE",
         "start": 1554,
-        "end": 1557
+        "end": 1557,
+        "canonical_name": "哥德尔"
     },
     {
         "entity": "通用",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 1559,
-        "end": 1561
+        "end": 1561,
+        "canonical_name": "通用"
     },
     {
         "entity": "图灵机",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 1574,
-        "end": 1577
+        "end": 1577,
+        "canonical_name": "图灵机"
     },
     {
         "entity": "图灵机",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 1633,
-        "end": 1636
+        "end": 1636,
+        "canonical_name": "图灵机"
     },
     {
         "entity": "图灵机",
         "type": "Location",
         "raw_label": "GPE",
         "start": 1676,
-        "end": 1679
+        "end": 1679,
+        "canonical_name": "图灵机"
     },
     {
         "entity": "阿隆佐·邱奇",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 1724,
-        "end": 1730
+        "end": 1730,
+        "canonical_name": "阿隆佐·邱奇"
     },
     {
         "entity": "几个月",
         "type": "Other",
         "raw_label": "DATE",
         "start": 1745,
-        "end": 1748
+        "end": 1748,
+        "canonical_name": "几个月"
     },
     {
         "entity": "通用",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 1766,
-        "end": 1768
+        "end": 1768,
+        "canonical_name": "通用"
     },
     {
         "entity": "1936年9月到1938年7月",
         "type": "Other",
         "raw_label": "DATE",
         "start": 1820,
-        "end": 1835
+        "end": 1835,
+        "canonical_name": "1936年9月到1938年7月"
     },
     {
         "entity": "普林斯顿大学",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 1846,
-        "end": 1852
+        "end": 1852,
+        "canonical_name": "普林斯顿大学"
     },
     {
         "entity": "第二年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 1859,
-        "end": 1862
+        "end": 1862,
+        "canonical_name": "第二年"
     },
     {
         "entity": "简·伊丽莎·宝洁奖学金",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 1866,
-        "end": 1877
+        "end": 1877,
+        "canonical_name": "简·伊丽莎·宝洁奖学金"
     },
     {
         "entity": "Jane Eliza",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 1882,
-        "end": 1892
+        "end": 1892,
+        "canonical_name": "Jane Eliza"
     },
     {
         "entity": "二",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 1943,
-        "end": 1944
+        "end": 1944,
+        "canonical_name": "第二年"
     },
     {
         "entity": "四",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 1950,
-        "end": 1951
+        "end": 1951,
+        "canonical_name": "四"
     },
     {
         "entity": "三",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 1958,
-        "end": 1959
+        "end": 1959,
+        "canonical_name": "十三岁"
     },
     {
         "entity": "1938年6月",
         "type": "Other",
         "raw_label": "DATE",
         "start": 1961,
-        "end": 1968
+        "end": 1968,
+        "canonical_name": "1939年7月"
     },
     {
         "entity": "林斯顿",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 1971,
-        "end": 1974
+        "end": 1974,
+        "canonical_name": "林斯顿"
     },
     {
         "entity": "图灵机",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2017,
-        "end": 2020
+        "end": 2020,
+        "canonical_name": "图灵机"
     },
     {
         "entity": "冯·诺依曼",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 2050,
-        "end": 2055
+        "end": 2055,
+        "canonical_name": "冯·诺依曼"
     },
     {
         "entity": "英国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2079,
-        "end": 2081
+        "end": 2081,
+        "canonical_name": "英国"
     },
     {
         "entity": "1939年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 2083,
-        "end": 2088
+        "end": 2088,
+        "canonical_name": "1992年《"
     },
     {
         "entity": "剑桥",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 2092,
-        "end": 2094
+        "end": 2094,
+        "canonical_name": "剑桥大学"
     },
     {
         "entity": "Foundations of mathe",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 2112,
-        "end": 2132
+        "end": 2132,
+        "canonical_name": "Foundations of mathe"
     },
     {
         "entity": "第二次世界大战",
         "type": "Event",
         "raw_label": "EVENT",
         "start": 2207,
-        "end": 2214
+        "end": 2214,
+        "canonical_name": "第二次世界大战"
     },
     {
         "entity": "德国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2228,
-        "end": 2230
+        "end": 2230,
+        "canonical_name": "德国"
     },
     {
         "entity": "1938年9月",
         "type": "Other",
         "raw_label": "DATE",
         "start": 2299,
-        "end": 2306
+        "end": 2306,
+        "canonical_name": "1939年7月"
     },
     {
         "entity": "英国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2311,
-        "end": 2313
+        "end": 2313,
+        "canonical_name": "英国"
     },
     {
         "entity": "第利",
         "type": "Other",
         "raw_label": "ORDINAL",
         "start": 2354,
-        "end": 2356
+        "end": 2356,
+        "canonical_name": "第利"
     },
     {
         "entity": "温·诺克斯",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 2356,
-        "end": 2361
+        "end": 2361,
+        "canonical_name": "温·诺克斯"
     },
     {
         "entity": "德国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2367,
-        "end": 2369
+        "end": 2369,
+        "canonical_name": "德国"
     },
     {
         "entity": "恩尼格玛",
         "type": "Other",
         "raw_label": "NORP",
         "start": 2372,
-        "end": 2376
+        "end": 2376,
+        "canonical_name": "恩尼格玛"
     },
     {
         "entity": "1939年7月",
         "type": "Other",
         "raw_label": "DATE",
         "start": 2387,
-        "end": 2394
+        "end": 2394,
+        "canonical_name": "1939年7月"
     },
     {
         "entity": "波兰",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2395,
-        "end": 2397
+        "end": 2397,
+        "canonical_name": "波兰"
     },
     {
         "entity": "华沙",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2401,
-        "end": 2403
+        "end": 2403,
+        "canonical_name": "华沙"
     },
     {
         "entity": "英国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2410,
-        "end": 2412
+        "end": 2412,
+        "canonical_name": "英国"
     },
     {
         "entity": "法国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2413,
-        "end": 2415
+        "end": 2415,
+        "canonical_name": "法国"
     },
     {
         "entity": "恩尼格玛",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2418,
-        "end": 2422
+        "end": 2422,
+        "canonical_name": "恩尼格玛"
     },
     {
         "entity": "诺克斯",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2460,
-        "end": 2463
+        "end": 2463,
+        "canonical_name": "诺克斯"
     },
     {
         "entity": "波兰",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2479,
-        "end": 2481
+        "end": 2481,
+        "canonical_name": "波兰"
     },
     {
         "entity": "德国人",
         "type": "Other",
         "raw_label": "NORP",
         "start": 2486,
-        "end": 2489
+        "end": 2489,
+        "canonical_name": "德国人"
     },
     {
         "entity": "波兰",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2532,
-        "end": 2534
+        "end": 2534,
+        "canonical_name": "波兰"
     },
     {
         "entity": "1939年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 2542,
-        "end": 2547
+        "end": 2547,
+        "canonical_name": "1992年《"
     },
     {
         "entity": "英国皇家海军",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 2550,
-        "end": 2556
+        "end": 2556,
+        "canonical_name": "英国皇家海军"
     },
     {
         "entity": "英国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2561,
-        "end": 2563
+        "end": 2563,
+        "canonical_name": "英国"
     },
     {
         "entity": "德国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2573,
-        "end": 2575
+        "end": 2575,
+        "canonical_name": "德国"
     },
     {
         "entity": "两年后",
         "type": "Other",
         "raw_label": "DATE",
         "start": 2587,
-        "end": 2590
+        "end": 2590,
+        "canonical_name": "两年多"
     },
     {
         "entity": "德国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2599,
-        "end": 2601
+        "end": 2601,
+        "canonical_name": "德国"
     },
     {
         "entity": "德国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2623,
-        "end": 2625
+        "end": 2625,
+        "canonical_name": "德国"
     },
     {
         "entity": "两",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 2719,
-        "end": 2720
+        "end": 2720,
+        "canonical_name": "两年多"
     },
     {
         "entity": "GC",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 2822,
-        "end": 2824
+        "end": 2824,
+        "canonical_name": "GC"
     },
     {
         "entity": "2012年4月",
         "type": "Other",
         "raw_label": "DATE",
         "start": 2854,
-        "end": 2861
+        "end": 2861,
+        "canonical_name": "2012年4月"
     },
     {
         "entity": "英国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 2866,
-        "end": 2868
+        "end": 2868,
+        "canonical_name": "英国"
     },
     {
         "entity": "一百周年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 2880,
-        "end": 2884
+        "end": 2884,
+        "canonical_name": "一百周年"
     },
     {
         "entity": "70 年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 2932,
-        "end": 2936
+        "end": 2936,
+        "canonical_name": "70 年"
     },
     {
         "entity": "GCHQ",
         "type": "Location",
         "raw_label": "GPE",
         "start": 3056,
-        "end": 3060
+        "end": 3060,
+        "canonical_name": "GCHQ"
     },
     {
         "entity": "两",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 3067,
-        "end": 3068
+        "end": 3068,
+        "canonical_name": "两年多"
     },
     {
         "entity": "恩尼格玛",
         "type": "Other",
         "raw_label": "NORP",
         "start": 3141,
-        "end": 3145
+        "end": 3145,
+        "canonical_name": "恩尼格玛"
     },
     {
         "entity": "Ronald Lewin",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 3169,
-        "end": 3181
+        "end": 3181,
+        "canonical_name": "Ronald Lewin"
     },
     {
         "entity": "六月",
         "type": "Other",
         "raw_label": "DATE",
         "start": 3217,
-        "end": 3219
+        "end": 3219,
+        "canonical_name": "六月"
     },
     {
         "entity": "第一周",
         "type": "Other",
         "raw_label": "DATE",
         "start": 3220,
-        "end": 3223
+        "end": 3223,
+        "canonical_name": "第一天"
     },
     {
         "entity": "希尔顿",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 3330,
-        "end": 3333
+        "end": 3333,
+        "canonical_name": "沃尔顿"
     },
     {
         "entity": "8",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 3355,
-        "end": 3356
+        "end": 3356,
+        "canonical_name": "1945年到1948年"
     },
     {
         "entity": "艾伦·图灵",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 3552,
-        "end": 3557
+        "end": 3557,
+        "canonical_name": "艾伦·图灵年"
     },
     {
         "entity": "第二次世界大战",
         "type": "Event",
         "raw_label": "EVENT",
         "start": 3575,
-        "end": 3582
+        "end": 3582,
+        "canonical_name": "第二次世界大战"
     },
     {
         "entity": "希尔顿",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 3605,
-        "end": 3608
+        "end": 3608,
+        "canonical_name": "沃尔顿"
     },
     {
         "entity": "解码纳粹秘密",
         "type": "Other",
         "raw_label": "LAW",
         "start": 3622,
-        "end": 3628
+        "end": 3628,
+        "canonical_name": "解码纳粹秘密"
     },
     {
         "entity": "40 英里",
         "type": "Other",
         "raw_label": "QUANTITY",
         "start": 3683,
-        "end": 3688
+        "end": 3688,
+        "canonical_name": "40 英里"
     },
     {
         "entity": "64 公里",
         "type": "Other",
         "raw_label": "QUANTITY",
         "start": 3689,
-        "end": 3694
+        "end": 3694,
+        "canonical_name": "64 公里"
     },
     {
         "entity": "伦敦",
         "type": "Location",
         "raw_label": "GPE",
         "start": 3696,
-        "end": 3698
+        "end": 3698,
+        "canonical_name": "伦敦"
     },
     {
         "entity": "1948 年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 3719,
-        "end": 3725
+        "end": 3725,
+        "canonical_name": "1948 年"
     },
     {
         "entity": "英国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 3759,
-        "end": 3761
+        "end": 3761,
+        "canonical_name": "英国"
     },
     {
         "entity": "Thomas Richards",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 3773,
-        "end": 3788
+        "end": 3788,
+        "canonical_name": "Thomas Richards"
     },
     {
         "entity": "奥运会",
         "type": "Event",
         "raw_label": "EVENT",
         "start": 3790,
-        "end": 3793
+        "end": 3793,
+        "canonical_name": "奥运会"
     },
     {
         "entity": "2小时35分钟",
         "type": "Other",
         "raw_label": "TIME",
         "start": 3798,
-        "end": 3805
+        "end": 3805,
+        "canonical_name": "2小时35分钟"
     },
     {
         "entity": "11分钟",
         "type": "Other",
         "raw_label": "TIME",
         "start": 3808,
-        "end": 3812
+        "end": 3812,
+        "canonical_name": "11分钟"
     },
     {
         "entity": "沃尔顿",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 3815,
-        "end": 3818
+        "end": 3818,
+        "canonical_name": "沃尔顿"
     },
     {
         "entity": "哈里·欣斯利",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 3954,
-        "end": 3960
+        "end": 3960,
+        "canonical_name": "哈里·欣斯利"
     },
     {
         "entity": "欧洲",
         "type": "Location",
         "raw_label": "LOC",
         "start": 3968,
-        "end": 3970
+        "end": 3970,
+        "canonical_name": "欧洲"
     },
     {
         "entity": "两年多",
         "type": "Other",
         "raw_label": "DATE",
         "start": 3976,
-        "end": 3979
+        "end": 3979,
+        "canonical_name": "两年多"
     },
     {
         "entity": "1400",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 3986,
-        "end": 3990
+        "end": 3990,
+        "canonical_name": "1400"
     },
     {
         "entity": "官方保密法",
         "type": "Other",
         "raw_label": "LAW",
         "start": 4031,
-        "end": 4036
+        "end": 4036,
+        "canonical_name": "官方保密法"
     },
     {
         "entity": "1946 年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 4075,
-        "end": 4081
+        "end": 4081,
+        "canonical_name": "1948 年"
     },
     {
         "entity": "乔治",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 4082,
-        "end": 4084
+        "end": 4084,
+        "canonical_name": "乔治"
     },
     {
         "entity": "英",
         "type": "Location",
         "raw_label": "GPE",
         "start": 4092,
-        "end": 4093
+        "end": 4093,
+        "canonical_name": "英国"
     },
     {
         "entity": "1945年到1948年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 4153,
-        "end": 4164
+        "end": 4164,
+        "canonical_name": "1945年到1948年"
     },
     {
         "entity": "国家物理实验室",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 4168,
-        "end": 4175
+        "end": 4175,
+        "canonical_name": "国家物理实验室"
     },
     {
         "entity": "1949年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 4194,
-        "end": 4199
+        "end": 4199,
+        "canonical_name": "1992年《"
     },
     {
         "entity": "1952年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 4324,
-        "end": 4329
+        "end": 4329,
+        "canonical_name": "1992年《"
     },
     {
         "entity": "半小时",
         "type": "Other",
         "raw_label": "TIME",
         "start": 4385,
-        "end": 4388
+        "end": 4388,
+        "canonical_name": "半小时"
     },
     {
         "entity": "美国新墨西哥州",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 4410,
-        "end": 4417
+        "end": 4417,
+        "canonical_name": "美国新墨西哥州"
     },
     {
         "entity": "国家实验室",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 4423,
-        "end": 4428
+        "end": 4428,
+        "canonical_name": "国家物理实验室"
     },
     {
         "entity": "第一",
         "type": "Other",
         "raw_label": "ORDINAL",
         "start": 4453,
-        "end": 4455
+        "end": 4455,
+        "canonical_name": "第一天"
     },
     {
         "entity": "1952年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 4502,
-        "end": 4507
+        "end": 4507,
+        "canonical_name": "1992年《"
     },
     {
         "entity": "1952年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 4529,
-        "end": 4534
+        "end": 4534,
+        "canonical_name": "1992年《"
     },
     {
         "entity": "英语",
         "type": "Other",
         "raw_label": "LANGUAGE",
         "start": 4553,
-        "end": 4555
+        "end": 4555,
+        "canonical_name": "英语"
     },
     {
         "entity": "叶序列",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 4604,
-        "end": 4607
+        "end": 4607,
+        "canonical_name": "叶序列"
     },
     {
         "entity": "1992年《",
         "type": "Other",
         "raw_label": "DATE",
         "start": 4666,
-        "end": 4672
+        "end": 4672,
+        "canonical_name": "1992年《"
     },
     {
         "entity": "艾伦·图灵选集",
         "type": "Other",
         "raw_label": "WORK_OF_ART",
         "start": 4672,
-        "end": 4679
+        "end": 4679,
+        "canonical_name": "艾伦·图灵选集"
     },
     {
         "entity": "2012年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 4692,
-        "end": 4697
+        "end": 4697,
+        "canonical_name": "2012年4月"
     },
     {
         "entity": "1952年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 4769,
-        "end": 4774
+        "end": 4774,
+        "canonical_name": "1992年《"
     },
     {
         "entity": "一",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 4783,
-        "end": 4784
+        "end": 4784,
+        "canonical_name": "第一天"
     },
     {
         "entity": "英国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 4801,
-        "end": 4803
+        "end": 4803,
+        "canonical_name": "英国"
     },
     {
         "entity": "两",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 4861,
-        "end": 4862
+        "end": 4862,
+        "canonical_name": "两年多"
     },
     {
         "entity": "一年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 4903,
-        "end": 4905
+        "end": 4905,
+        "canonical_name": "一百周年"
     },
     {
         "entity": "1954年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 4955,
-        "end": 4960
+        "end": 4960,
+        "canonical_name": "1912年6月23日—1954年"
     },
     {
         "entity": "氰化物",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 4968,
-        "end": 4971
+        "end": 4971,
+        "canonical_name": "氰化物"
     },
     {
         "entity": "Ethel Sara Stoney",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 5007,
-        "end": 5024
+        "end": 5024,
+        "canonical_name": "Ethel Sara Stoney"
     },
     {
         "entity": "2009年9月10日",
         "type": "Other",
         "raw_label": "DATE",
         "start": 5086,
-        "end": 5096
+        "end": 5096,
+        "canonical_name": "2009年9月10日"
     },
     {
         "entity": "3万",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 5101,
-        "end": 5103
+        "end": 5103,
+        "canonical_name": "3万"
     },
     {
         "entity": "英国",
         "type": "Other",
         "raw_label": "NORP",
         "start": 5111,
-        "end": 5113
+        "end": 5113,
+        "canonical_name": "英国"
     },
     {
         "entity": "戈登·布朗",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 5115,
-        "end": 5120
+        "end": 5120,
+        "canonical_name": "戈登·布朗"
     },
     {
         "entity": "每日电讯报",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 5122,
-        "end": 5127
+        "end": 5127,
+        "canonical_name": "每日电讯报"
     },
     {
         "entity": "英国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 5133,
-        "end": 5135
+        "end": 5135,
+        "canonical_name": "英国"
     },
     {
         "entity": "艾伦·图灵",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 5165,
-        "end": 5170
+        "end": 5170,
+        "canonical_name": "艾伦·图灵年"
     },
     {
         "entity": "2012年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 5177,
-        "end": 5182
+        "end": 5182,
+        "canonical_name": "2012年4月"
     },
     {
         "entity": "2万多",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 5184,
-        "end": 5187
+        "end": 5187,
+        "canonical_name": "2万多"
     },
     {
         "entity": "英国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 5195,
-        "end": 5197
+        "end": 5197,
+        "canonical_name": "英国"
     },
     {
         "entity": "英国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 5216,
-        "end": 5218
+        "end": 5218,
+        "canonical_name": "英国"
     },
     {
         "entity": "上议院",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 5218,
-        "end": 5221
+        "end": 5221,
+        "canonical_name": "上议院"
     },
     {
         "entity": "麦克纳利",
         "type": "Location",
         "raw_label": "GPE",
         "start": 5222,
-        "end": 5226
+        "end": 5226,
+        "canonical_name": "麦克纳利"
     },
     {
         "entity": "勋爵",
         "type": "Location",
         "raw_label": "GPE",
         "start": 5226,
-        "end": 5228
+        "end": 5228,
+        "canonical_name": "勋爵"
     },
     {
         "entity": "今天",
         "type": "Other",
         "raw_label": "DATE",
         "start": 5304,
-        "end": 5306
+        "end": 5306,
+        "canonical_name": "今天"
     },
     {
         "entity": "今日",
         "type": "Other",
         "raw_label": "DATE",
         "start": 5412,
-        "end": 5414
+        "end": 5414,
+        "canonical_name": "今日"
     },
     {
         "entity": "2013年12月24日",
         "type": "Other",
         "raw_label": "DATE",
         "start": 5433,
-        "end": 5444
+        "end": 5444,
+        "canonical_name": "2013年12月24日"
     },
     {
         "entity": "英国司法部",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 5445,
-        "end": 5450
+        "end": 5450,
+        "canonical_name": "英国司法部"
     },
     {
         "entity": "英国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 5452,
-        "end": 5454
+        "end": 5454,
+        "canonical_name": "英国"
     },
     {
         "entity": "伊丽莎白",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 5456,
-        "end": 5460
+        "end": 5460,
+        "canonical_name": "伊丽莎白"
     },
     {
         "entity": "1952年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 5464,
-        "end": 5469
+        "end": 5469,
+        "canonical_name": "1992年《"
     },
     {
         "entity": "艾伦·图灵",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 5479,
-        "end": 5484
+        "end": 5484,
+        "canonical_name": "艾伦·图灵年"
     },
     {
         "entity": "2015年2月23日",
         "type": "Other",
         "raw_label": "DATE",
         "start": 5526,
-        "end": 5536
+        "end": 5536,
+        "canonical_name": "2013年12月24日"
     },
     {
         "entity": "英国",
         "type": "Other",
         "raw_label": "NORP",
         "start": 5543,
-        "end": 5545
+        "end": 5545,
+        "canonical_name": "英国"
     },
     {
         "entity": "50万",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 5556,
-        "end": 5559
+        "end": 5559,
+        "canonical_name": "50万"
     },
     {
         "entity": "英国",
         "type": "Location",
         "raw_label": "GPE",
         "start": 5569,
-        "end": 5571
+        "end": 5571,
+        "canonical_name": "英国"
     },
     {
         "entity": "49",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 5575,
-        "end": 5577
+        "end": 5577,
+        "canonical_name": "约49"
     },
     {
         "entity": "2017年1月31日",
         "type": "Other",
         "raw_label": "DATE",
         "start": 5597,
-        "end": 5607
+        "end": 5607,
+        "canonical_name": "2013年12月24日"
     },
     {
         "entity": "艾伦·图灵",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 5608,
-        "end": 5613
+        "end": 5613,
+        "canonical_name": "艾伦·图灵年"
     },
     {
         "entity": "约49",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 5618,
-        "end": 5621
+        "end": 5621,
+        "canonical_name": "约49"
     },
     {
         "entity": "1946年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 5664,
-        "end": 5669
+        "end": 5669,
+        "canonical_name": "1948 年"
     },
     {
         "entity": "英",
         "type": "Location",
         "raw_label": "GPE",
         "start": 5670,
-        "end": 5671
+        "end": 5671,
+        "canonical_name": "英国"
     },
     {
         "entity": "1951年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 5678,
-        "end": 5683
+        "end": 5683,
+        "canonical_name": "1911年"
     },
     {
         "entity": "皇家学会",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 5687,
-        "end": 5691
+        "end": 5691,
+        "canonical_name": "皇家学会"
     },
     {
         "entity": "1966年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 5716,
-        "end": 5721
+        "end": 5721,
+        "canonical_name": "1966年"
     },
     {
         "entity": "计算机协会",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 5730,
-        "end": 5735
+        "end": 5735,
+        "canonical_name": "计算机协会"
     },
     {
         "entity": "诺贝尔奖",
         "type": "Other",
         "raw_label": "WORK_OF_ART",
         "start": 5779,
-        "end": 5783
+        "end": 5783,
+        "canonical_name": "诺贝尔奖"
     },
     {
         "entity": "50英镑",
         "type": "Other",
         "raw_label": "MONEY",
         "start": 5807,
-        "end": 5811
+        "end": 5811,
+        "canonical_name": "50英镑"
     },
     {
         "entity": "半",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 5863,
-        "end": 5864
+        "end": 5864,
+        "canonical_name": "半小时"
     },
     {
         "entity": "史蒂夫·乔布斯",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 5896,
-        "end": 5903
+        "end": 5903,
+        "canonical_name": "史蒂夫·乔布斯"
     },
     {
         "entity": "史蒂芬·弗莱",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 5906,
-        "end": 5912
+        "end": 5912,
+        "canonical_name": "史蒂芬·弗莱"
     },
     {
         "entity": "God",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 5954,
-        "end": 5957
+        "end": 5957,
+        "canonical_name": "God"
     },
     {
         "entity": "NVIDIA",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 6029,
-        "end": 6035
+        "end": 6035,
+        "canonical_name": "NVIDIA"
     },
     {
         "entity": "16",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 6044,
-        "end": 6046
+        "end": 6046,
+        "canonical_name": "16岁"
     },
     {
         "entity": "NVIDIA",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 6049,
-        "end": 6055
+        "end": 6055,
+        "canonical_name": "NVIDIA"
     },
     {
         "entity": "20",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 6064,
-        "end": 6066
+        "end": 6066,
+        "canonical_name": "2007"
     },
     {
         "entity": "模仿游戏",
         "type": "Other",
         "raw_label": "WORK_OF_ART",
         "start": 6105,
-        "end": 6109
+        "end": 6109,
+        "canonical_name": "模仿游戏"
     },
     {
         "entity": "2014年",
         "type": "Other",
         "raw_label": "DATE",
         "start": 6111,
-        "end": 6116
+        "end": 6116,
+        "canonical_name": "2012年4月"
     },
     {
         "entity": "本尼迪克特·康伯巴奇",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 6120,
-        "end": 6130
+        "end": 6130,
+        "canonical_name": "本尼迪克特·康伯巴奇"
     },
     {
         "entity": "艾伦·图灵",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 6132,
-        "end": 6137
+        "end": 6137,
+        "canonical_name": "艾伦·图灵年"
     },
     {
         "entity": "图灵机",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 6154,
-        "end": 6157
+        "end": 6157,
+        "canonical_name": "图灵机"
     },
     {
         "entity": "2012",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 6240,
-        "end": 6244
+        "end": 6244,
+        "canonical_name": "2012年4月"
     },
     {
         "entity": "艾伦·图灵年",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 6244,
-        "end": 6250
+        "end": 6250,
+        "canonical_name": "艾伦·图灵年"
     },
     {
         "entity": "档案馆",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 6264,
-        "end": 6267
+        "end": 6267,
+        "canonical_name": "档案馆"
     },
     {
         "entity": "档案馆",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 6300,
-        "end": 6303
+        "end": 6303,
+        "canonical_name": "档案馆"
     },
     {
         "entity": "档案馆",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 6323,
-        "end": 6326
+        "end": 6326,
+        "canonical_name": "档案馆"
     },
     {
         "entity": "美国国会",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 6340,
-        "end": 6344
+        "end": 6344,
+        "canonical_name": "美国国会"
     },
     {
         "entity": "27",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 6363,
-        "end": 6365
+        "end": 6365,
+        "canonical_name": "2007"
     },
     {
         "entity": "James",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 6437,
-        "end": 6442
+        "end": 6442,
+        "canonical_name": "James"
     },
     {
         "entity": "2001",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 6535,
-        "end": 6539
+        "end": 6539,
+        "canonical_name": "2007"
     },
     {
         "entity": "12",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 6540,
-        "end": 6542
+        "end": 6542,
+        "canonical_name": "2013年12月24日"
     },
     {
         "entity": "11",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 6543,
-        "end": 6545
+        "end": 6545,
+        "canonical_name": "1911年"
     },
     {
         "entity": "2007",
         "type": "Other",
         "raw_label": "DATE",
         "start": 6555,
-        "end": 6559
+        "end": 6559,
+        "canonical_name": "2007"
     },
     {
         "entity": "档案馆",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 6593,
-        "end": 6596
+        "end": 6596,
+        "canonical_name": "档案馆"
     },
     {
         "entity": "中央研究院",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 6600,
-        "end": 6605
+        "end": 6605,
+        "canonical_name": "中央研究院"
     },
     {
         "entity": "台大",
         "type": "Organization",
         "raw_label": "ORG",
         "start": 6609,
-        "end": 6611
+        "end": 6611,
+        "canonical_name": "台大"
     },
     {
         "entity": "艾伦·图灵",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 6615,
-        "end": 6620
+        "end": 6620,
+        "canonical_name": "艾伦·图灵年"
     },
     {
         "entity": "档案馆",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 6646,
-        "end": 6649
+        "end": 6649,
+        "canonical_name": "档案馆"
     },
     {
         "entity": "艾伦·图灵",
         "type": "Person",
         "raw_label": "PERSON",
         "start": 6651,
-        "end": 6656
+        "end": 6656,
+        "canonical_name": "艾伦·图灵年"
     },
     {
         "entity": "数字化",
         "type": "Other",
         "raw_label": "CARDINAL",
         "start": 6658,
-        "end": 6661
+        "end": 6661,
+        "canonical_name": "数字化"
     }
 ]
