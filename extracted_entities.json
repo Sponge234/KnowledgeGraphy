@@ -61,7 +61,7 @@
         "raw_label": "CARDINAL",
         "start": 153,
         "end": 154,
-        "canonical_name": "1945年到1948年"
+        "canonical_name": "1936年9月到1938年7月"
     },
     {
         "entity": "德国海军",
@@ -317,7 +317,7 @@
         "raw_label": "DATE",
         "start": 954,
         "end": 959,
-        "canonical_name": "1992年《"
+        "canonical_name": "1966年"
     },
     {
         "entity": "十三岁",
@@ -421,7 +421,7 @@
         "raw_label": "DATE",
         "start": 1255,
         "end": 1260,
-        "canonical_name": "1911年"
+        "canonical_name": "1938年6月"
     },
     {
         "entity": "剑桥大学",
@@ -437,7 +437,7 @@
         "raw_label": "DATE",
         "start": 1290,
         "end": 1295,
-        "canonical_name": "1939年7月"
+        "canonical_name": "1948 年"
     },
     {
         "entity": "1935年",
@@ -445,7 +445,7 @@
         "raw_label": "DATE",
         "start": 1305,
         "end": 1310,
-        "canonical_name": "1939年7月"
+        "canonical_name": "1938年6月"
     },
     {
         "entity": "22岁",
@@ -485,7 +485,7 @@
         "raw_label": "DATE",
         "start": 1508,
         "end": 1513,
-        "canonical_name": "1911年"
+        "canonical_name": "1938年6月"
     },
     {
         "entity": "图灵机",
@@ -629,7 +629,7 @@
         "raw_label": "DATE",
         "start": 1961,
         "end": 1968,
-        "canonical_name": "1939年7月"
+        "canonical_name": "1938年6月"
     },
     {
         "entity": "林斯顿",
@@ -709,7 +709,7 @@
         "raw_label": "DATE",
         "start": 2299,
         "end": 2306,
-        "canonical_name": "1939年7月"
+        "canonical_name": "1938年6月"
     },
     {
         "entity": "英国",
@@ -757,7 +757,7 @@
         "raw_label": "DATE",
         "start": 2387,
         "end": 2394,
-        "canonical_name": "1939年7月"
+        "canonical_name": "1938年6月"
     },
     {
         "entity": "波兰",
@@ -869,7 +869,7 @@
         "raw_label": "DATE",
         "start": 2587,
         "end": 2590,
-        "canonical_name": "两年多"
+        "canonical_name": "两年后"
     },
     {
         "entity": "德国",
@@ -893,7 +893,7 @@
         "raw_label": "CARDINAL",
         "start": 2719,
         "end": 2720,
-        "canonical_name": "两年多"
+        "canonical_name": "两年后"
     },
     {
         "entity": "GC",
@@ -949,7 +949,7 @@
         "raw_label": "CARDINAL",
         "start": 3067,
         "end": 3068,
-        "canonical_name": "两年多"
+        "canonical_name": "两年后"
     },
     {
         "entity": "恩尼格玛",
@@ -997,7 +997,7 @@
         "raw_label": "CARDINAL",
         "start": 3355,
         "end": 3356,
-        "canonical_name": "1945年到1948年"
+        "canonical_name": "1936年9月到1938年7月"
     },
     {
         "entity": "艾伦·图灵",
@@ -1133,7 +1133,7 @@
         "raw_label": "DATE",
         "start": 3976,
         "end": 3979,
-        "canonical_name": "两年多"
+        "canonical_name": "两年后"
     },
     {
         "entity": "1400",
@@ -1309,7 +1309,7 @@
         "raw_label": "CARDINAL",
         "start": 4783,
         "end": 4784,
-        "canonical_name": "第一天"
+        "canonical_name": "一百周年"
     },
     {
         "entity": "英国",
@@ -1325,7 +1325,7 @@
         "raw_label": "CARDINAL",
         "start": 4861,
         "end": 4862,
-        "canonical_name": "两年多"
+        "canonical_name": "两年后"
     },
     {
         "entity": "一年",
@@ -1341,7 +1341,7 @@
         "raw_label": "DATE",
         "start": 4955,
         "end": 4960,
-        "canonical_name": "1912年6月23日—1954年"
+        "canonical_name": "1948 年"
     },
     {
         "entity": "氰化物",
@@ -1725,7 +1725,7 @@
         "raw_label": "CARDINAL",
         "start": 6064,
         "end": 6066,
-        "canonical_name": "2007"
+        "canonical_name": "2009年9月10日"
     },
     {
         "entity": "模仿游戏",
@@ -1821,7 +1821,7 @@
         "raw_label": "CARDINAL",
         "start": 6363,
         "end": 6365,
-        "canonical_name": "2007"
+        "canonical_name": "27"
     },
     {
         "entity": "James",
@@ -1837,7 +1837,7 @@
         "raw_label": "CARDINAL",
         "start": 6535,
         "end": 6539,
-        "canonical_name": "2007"
+        "canonical_name": "2001"
     },
     {
         "entity": "12",
@@ -1845,7 +1845,7 @@
         "raw_label": "CARDINAL",
         "start": 6540,
         "end": 6542,
-        "canonical_name": "2013年12月24日"
+        "canonical_name": "2012年4月"
     },
     {
         "entity": "11",
@@ -1853,7 +1853,7 @@
         "raw_label": "CARDINAL",
         "start": 6543,
         "end": 6545,
-        "canonical_name": "1911年"
+        "canonical_name": "11分钟"
     },
     {
         "entity": "2007",
@@ -1861,7 +1861,7 @@
         "raw_label": "DATE",
         "start": 6555,
         "end": 6559,
-        "canonical_name": "2007"
+        "canonical_name": "2001"
     },
     {
         "entity": "档案馆",

@@ -6,7 +6,6 @@ import difflib
 nlp = spacy.load("zh_core_web_sm")
 
 def build_dynamic_canonical_map(extracted_strings):
-   
     unique_entities = sorted(list(set(extracted_strings)), key=len, reverse=True)
     canonical_map = {}
     
@@ -76,7 +75,7 @@ def extract_entities_from_file(input_path, output_path):
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(raw_entities, f, ensure_ascii=False, indent=4)
         
-    print(f"提取与自动消歧完成，共提取 {len(raw_entities)} 个实体。")
+    print(f" 提取与自动消歧完成，共提取 {len(raw_entities)} 个实体。")
 
 if __name__ == "__main__":
     input_file_path = "turing_raw_data_zhcn.txt"
