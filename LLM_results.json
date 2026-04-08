@@ -1,347 +1,59 @@
-[
-  {
-    "entity": "艾伦·麦席森·图灵",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "阿兰·图灵",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "英国",
-    "type": "Location",
-    "raw_label": "GPE"
-  },
-  {
-    "entity": "二次世界大战",
-    "type": "Event",
-    "raw_label": "EVENT"
-  },
-  {
-    "entity": "Hut 8",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "恩尼格玛密码机",
-    "type": "Other",
-    "raw_label": "PRODUCT"
-  },
-  {
-    "entity": "Bombe",
-    "type": "Other",
-    "raw_label": "PRODUCT"
-  },
-  {
-    "entity": "盟军",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "大西洋战役",
-    "type": "Event",
-    "raw_label": "EVENT"
-  },
-  {
-    "entity": "轴心国",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "《计算机器和智能》",
-    "type": "Other",
-    "raw_label": "WORK_OF_ART"
-  },
-  {
-    "entity": "图灵测试",
-    "type": "Other",
-    "raw_label": "WORK_OF_ART"
-  },
-  {
-    "entity": "图灵机",
-    "type": "Other",
-    "raw_label": "PRODUCT"
-  },
-  {
-    "entity": "汤姆·理查兹",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "朱利斯·麦席森·图灵",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "Ethel Sara Stoney",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "伦敦",
-    "type": "Location",
-    "raw_label": "GPE"
-  },
-  {
-    "entity": "帕丁顿",
-    "type": "Location",
-    "raw_label": "GPE"
-  },
-  {
-    "entity": "吉尔福德",
-    "type": "Location",
-    "raw_label": "GPE"
-  },
-  {
-    "entity": "圣迈克尔",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "马尔伯勒学院",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "多塞特郡",
-    "type": "Location",
-    "raw_label": "GPE"
-  },
-  {
-    "entity": "舍伯恩学校",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "南安普顿",
-    "type": "Location",
-    "raw_label": "GPE"
-  },
-  {
-    "entity": "阿尔伯特·爱因斯坦",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "牛顿",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "剑桥大学国王学院",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "亚尔·瓦尔德马·林德伯格",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "《论可计算数及其在判定问题上的应用》",
-    "type": "Other",
-    "raw_label": "WORK_OF_ART"
-  },
-  {
-    "entity": "哥德尔",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "阿隆佐·邱奇",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "λ演算",
-    "type": "Other",
-    "raw_label": "WORK_OF_ART"
-  },
-  {
-    "entity": "普林斯顿大学",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "冯·诺依曼",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "维特根斯坦",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "布莱切利庄园",
-    "type": "Location",
-    "raw_label": "FAC"
-  },
-  {
-    "entity": "政府密码和密码学校",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "GC&CS",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "第利温·诺克斯",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "波兰密码局",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "华沙",
-    "type": "Location",
-    "raw_label": "GPE"
-  },
-  {
-    "entity": "英国皇家海军",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "军情六处",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "GCHQ",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "英国国家档案馆",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "I·J·古德",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "国家物理实验室",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "ACE",
-    "type": "Other",
-    "raw_label": "PRODUCT"
-  },
-  {
-    "entity": "曼彻斯特大学",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "曼彻斯特一号",
-    "type": "Other",
-    "raw_label": "PRODUCT"
-  },
-  {
-    "entity": "洛斯阿拉莫斯国家实验室",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "ENIAC",
-    "type": "Other",
-    "raw_label": "PRODUCT"
-  },
-  {
-    "entity": "《形态发生的化学基础》",
-    "type": "Other",
-    "raw_label": "WORK_OF_ART"
-  },
-  {
-    "entity": "《自然》杂志",
-    "type": "Other",
-    "raw_label": "WORK_OF_ART"
-  },
-  {
-    "entity": "性悖轨法",
-    "type": "Other",
-    "raw_label": "LAW"
-  },
-  {
-    "entity": "戈登·布朗",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "伊丽莎白二世",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "艾伦·图灵法案",
-    "type": "Other",
-    "raw_label": "LAW"
-  },
-  {
-    "entity": "大英帝国勋章",
-    "type": "Other",
-    "raw_label": "WORK_OF_ART"
-  },
-  {
-    "entity": "皇家学会",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "图灵奖",
-    "type": "Other",
-    "raw_label": "WORK_OF_ART"
-  },
-  {
-    "entity": "计算机协会",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "英格兰银行",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "苹果公司",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "史蒂夫·乔布斯",
-    "type": "Person",
-    "raw_label": "PERSON"
-  },
-  {
-    "entity": "英伟达",
-    "type": "Organization",
-    "raw_label": "ORG"
-  },
-  {
-    "entity": "NVIDIA GeForce 20系列",
-    "type": "Other",
-    "raw_label": "PRODUCT"
-  },
-  {
-    "entity": "《模仿游戏》",
-    "type": "Other",
-    "raw_label": "WORK_OF_ART"
-  },
-  {
-    "entity": "本尼迪克特·康伯巴奇",
-    "type": "Person",
-    "raw_label": "PERSON"
+{
+  "knowledge_graph": {
+    "entities": [
+      { "id": "E01", "name": "艾伦·麦席森·图灵", "label": "Person", "description": "计算机科学与人工智能之父，英国数学家、逻辑学家" },
+      { "id": "E02", "name": "朱利斯·麦席森·图灵", "label": "Person", "description": "图灵的父亲，英属印度公务员" },
+      { "id": "E03", "name": "Ethel Sara Stoney", "label": "Person", "description": "图灵的母亲" },
+      { "id": "E04", "name": "阿隆佐·邱奇", "label": "Person", "description": "在λ演算方面有研究的数学家" },
+      { "id": "E05", "name": "冯·诺依曼", "label": "Person", "description": "著名数学家，曾有意聘请图灵" },
+      { "id": "E06", "name": "维特根斯坦", "label": "Person", "description": "哲学家，曾与图灵就数学基本原理争论" },
+      { "id": "E07", "name": "汤姆·理查兹", "label": "Person", "description": "1948年奥运会马拉松银牌得主" },
+      { "id": "E08", "name": "伊丽莎白二世", "label": "Person", "description": "英国女王，颁布赦免令" },
+
+      { "id": "L01", "name": "伦敦帕丁顿", "label": "Location", "description": "图灵出生地" },
+      { "id": "L02", "name": "舍伯恩学校", "label": "Location", "description": "图灵青少年时期就读的学校" },
+      { "id": "L03", "name": "布莱切利庄园", "label": "Location", "description": "二战期间英国密码破译基地" },
+      { "id": "L04", "name": "普林斯顿大学", "label": "Location", "description": "图灵攻读博士学位的学校" },
+      { "id": "L05", "name": "剑桥大学国王学院", "label": "Location", "description": "图灵本科就读及担任研究员的地方" },
+
+      { "id": "O01", "name": "Hut 8", "label": "Organization", "description": "负责德国海军密码分析的小组" },
+      { "id": "O02", "name": "政府密码和密码学校 (GC&CS)", "label": "Organization", "description": "英国密码破译组织" },
+      { "id": "O03", "name": "军情六处 (MI6)", "label": "Organization", "description": "英国情报机构" },
+      { "id": "O04", "name": "国家物理实验室 (NPL)", "label": "Organization", "description": "图灵研发ACE的地方" },
+      { "id": "O05", "name": "计算机协会 (ACM)", "label": "Organization", "description": "颁发图灵奖的机构" },
+      { "id": "O06", "name": "英格兰银行", "label": "Organization", "description": "发行印有图灵头像钞票的机构" },
+
+      { "id": "V01", "name": "第二次世界大战", "label": "Event", "description": "图灵做出重大贡献的历史时期" },
+      { "id": "V02", "name": "大西洋战役", "label": "Event", "description": "图灵破译密码帮助赢过的关键战役" },
+      { "id": "V03", "name": "1948年奥林匹克运动会", "label": "Event", "description": "图灵曾参与马拉松选拔的赛事" },
+      { "id": "V04", "name": "艾伦·图灵法案生效", "label": "Event", "description": "2017年英国赦免因同性恋定罪者的法案" },
+
+      { "id": "T01", "name": "图灵机", "label": "Other", "description": "现代计算机逻辑工作方式的基础模型" },
+      { "id": "T02", "name": "图灵测试", "label": "Other", "description": "判定机器是否具有智能的测试方法" },
+      { "id": "T03", "name": "恩尼格玛密码机 (Enigma)", "label": "Other", "description": "二战中德国使用的加密设备" },
+      { "id": "T04", "name": "Bombe", "label": "Other", "description": "图灵改进的用于破译恩尼格玛的机电机器" },
+      { "id": "T05", "name": "《计算机器和智能》", "label": "Other", "description": "图灵发表的著名论文" },
+      { "id": "T06", "name": "图灵奖", "label": "Other", "description": "计算机界最高荣誉" },
+      { "id": "T07", "name": "大英帝国勋章 (OBE)", "label": "Other", "description": "图灵获得的荣誉勋衔" },
+      { "id": "T08", "name": "人工智能", "label": "Other", "description": "图灵作为其学科之父的领域" }
+    ],
+    "relationships": [
+      { "source": "E01", "target": "E02", "type": "son_of" },
+      { "source": "E01", "target": "E03", "type": "son_of" },
+      { "source": "E01", "target": "L01", "type": "born_in" },
+      { "source": "E01", "target": "L05", "type": "studied_at" },
+      { "source": "E01", "target": "L04", "type": "graduated_from" },
+      { "source": "E01", "target": "O02", "type": "worked_at" },
+      { "source": "E01", "target": "O01", "type": "member_of" },
+      { "source": "E01", "target": "T01", "type": "proposed" },
+      { "source": "E01", "target": "T02", "type": "proposed" },
+      { "source": "E01", "target": "T03", "type": "deciphered" },
+      { "source": "E01", "target": "V01", "type": "contributed_to" },
+      { "source": "E01", "target": "T07", "type": "awarded" },
+      { "source": "E08", "target": "E01", "type": "pardoned" },
+      { "source": "O05", "target": "T06", "type": "establishes" },
+      { "source": "T06", "target": "E01", "type": "named_after" },
+      { "source": "O06", "target": "E01", "type": "commemorated_on_currency" }
+    ]
   }
-]
+}
